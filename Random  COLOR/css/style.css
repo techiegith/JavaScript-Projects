@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Sometype+Mono&display=swap');
+.main{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+body{
+    /* background-color:black;
+     */
+     transition: 0.5s;
+}
+.container{
+    width:30rem;
+    /* height:15rem; */
+    padding: 10px;
+    font-size: 40px;
+    border-radius: 20px;
+    background-color: aliceblue;
+    text-align: center;
+}
+button{
+    margin-top: 5px;;
+    font-size:20px;
+    border: none;
+    width:100%;
+    color:#fff;
+    font-size: 25px;
+    border-radius:10px ;
+    display: block;
+    background-color: black;
+}
