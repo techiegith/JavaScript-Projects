@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Bungee+Spice&family=Chakra+Petch:wght@300&family=Dancing+Script&family=Inconsolata:wght@500&family=Lobster&family=Passions+Conflict&family=Poppins:wght@500&family=Roboto+Condensed:ital,wght@1,700&family=Roboto:ital,wght@1,300&family=Signika&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    /* margin-top:1px; */
+    /* color:rgba(183, 70, 21, 0.945); */
+    font-size:3rem;
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#fb7c14;
+    
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    display:grid;
+    justify-content:center;
+    align-items: center;
+    background: linear-gradient(45deg,#0a0a0a, #3a4452);
+    /* background: whitesmoke; */
+}
+
+.calculator{
+    border: 1px solid #717377;
+    padding: 10px;
+    border-radius: 16px;
+    background: transparent;
+    box-shadow:0px 3px 15px rgba(113, 115, 119, 0.5);
+}
+input{
+    width:320px;
+    
+    /* border: black;*/
+    border:none; 
+    padding: 06px;
+    margin: 06px;
+    /* background:#fb7c14; */
+    /* background:transparent; */
+    box-shadow: 0px 3px,15px,rgbs(84,84,84,0.1);
+    font-size:40px;
+    text-align:right;
+    cursor:pointer;
+    color:black;
+    border-radius:16px;
+
+}
+input::placeholder{
+    color:#ffff;
+
+}
+button{
+    border:none;
+    width:60px;
+    height:60px;
+    margin:10px;
+    border-radius:50%;
+    background: transparent;
+    /* color:#111111; */
+    color:#ffff;
+    font-size: 20px;
+    box-shadow: -5px -5px 08px rgba(210, 170, 170, 0.901);
+    cursor:pointer;
+}
+.equalBtn{
+    background: #fb7c14;
+}
+.operator{
+    color:#fb7c14;
+}
