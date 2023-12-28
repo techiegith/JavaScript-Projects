@@ -1,7 +1,6 @@
 # JavaScript-Projects
 Theme Analog Clock 
 
-Uploading video_2023-12-28_17-08-48.mp4…
 
 
 Countdown 
