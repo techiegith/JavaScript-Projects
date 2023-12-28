@@ -10,10 +10,6 @@ https://github.com/techiegith/JavaScript-Projects/assets/128968069/574bee8e-f17b
 
 #Random color
 
-
-
-
-
 Uploading video_2023-12-28_17-29-18.mp4…
 
 
