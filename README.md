@@ -2,8 +2,6 @@
 
 #Analog clock
 
-
-
 https://github.com/techiegith/JavaScript-Projects/assets/128968069/574bee8e-f17b-41dd-a13d-d08a8fe57991
 
 #Random color
